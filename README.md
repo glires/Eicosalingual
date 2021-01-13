@@ -7,4 +7,5 @@ Comparing diversified syntaxes of a larger number of programming languages
 | :-: | :-: | :-: | :-: |
 | Python | 4.4.49 | openSUSE 42.2 | Python 3.8.5 |
 | Objective-C | 5.9.16 | Fedora 33 | GCC 10.2.1 |
+| Java | 2.6.32 | RHEL 6.2 | OpenJDK 15.0.1 |
 
