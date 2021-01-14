@@ -9,11 +9,16 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Pascal | 1970 | - |
 | C | 1972 | - |
 | SQL | 1974 | - |
+| AWK | 1977 | - |
+| Bourne shell | 1977 | - |
+| C shell | 1978 | - |
 | Objective-C | 1984 | - |
 | C++ | 1985 | - |
 | Perl | 1987 | - |
 | Python | 1991 | - |
+| R | 1993 | - |
 | Java | 1995 | - |
+| PHP | 1995 | - |
 | JavaScript | 1995 | - |
 | Ruby | 1995 | - |
 | C# | 2000 | - |
