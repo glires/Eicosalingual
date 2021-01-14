@@ -16,7 +16,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | C++ | 1985 | - |
 | Perl | 1987 | - |
 | Python | 1991 | - |
-| R | 1993 | - |
+| R | 1993 | Designed to perform statistical computing and graphics |
 | Java | 1995 | - |
 | PHP | 1995 | - |
 | JavaScript | 1995 | - |
@@ -32,6 +32,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | SQL | 3.10.0 | CentOS 7.6 | MariaDB 10.5.5 |
 | Objective-C | 5.9.16 | Fedora 33 | GCC 10.2.1 |
 | Python | 4.4.49 | openSUSE 42.2 | Python 3.8.5 |
+| R | 3.10.0 | RHEL 7.3 | R 3.4.1 |
 | Java | 2.6.32 | RHEL 6.2 | OpenJDK 15.0.1 |
 | C# | 4.18.0 | CentOS 8.3 | .NET SDK 5.0.100 |
 
