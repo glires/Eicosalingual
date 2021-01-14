@@ -21,7 +21,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | PHP | 1995 | - |
 | JavaScript | 1995 | - |
 | Ruby | 1995 | - |
-| C# | 2000 | - |
+| C# | 2000 | Designed to target the Common Language Infrastructure |
 | Go | 2009 | - |
 | Swift | 2014 | - |
 
@@ -33,4 +33,5 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Objective-C | 5.9.16 | Fedora 33 | GCC 10.2.1 |
 | Python | 4.4.49 | openSUSE 42.2 | Python 3.8.5 |
 | Java | 2.6.32 | RHEL 6.2 | OpenJDK 15.0.1 |
+| C# | 4.18.0 | CentOS 8.3 | .NET SDK 5.0.100 |
 
