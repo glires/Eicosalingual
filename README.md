@@ -17,7 +17,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Perl | 1987 | - |
 | Python | 1991 | - |
 | R | 1993 | To perform statistical computing and graphics |
-| Java | 1995 | - |
+| Java | 1995 | To eliminate implementation dependnecies using C-style OOP |
 | PHP | 1995 | - |
 | JavaScript | 1995 | - |
 | Ruby | 1995 | - |
