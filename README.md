@@ -5,7 +5,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Programming language | Appeared | Concept |
 | :-: | :-: | :-: |
 | Fortran | 1957 | - |
-| BASIC | 1964 | - | - |
+| BASIC | 1964 | Designed to enable students to use computers |
 | Pascal | 1970 | - |
 | C | 1972 | - |
 | SQL | 1974 | - |
@@ -29,6 +29,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 ## Test environment
 | Programming language | Linux | Distribution | Compiler or interpreter |
 | :-: | :-: | :-: | :-: |
+| BASIC | 4.4.0 | Ubuntu 16.04 | bwBASIC 2.20 |
 | SQL | 3.10.0 | CentOS 7.6 | MariaDB 10.5.5 |
 | Objective-C | 5.9.16 | Fedora 33 | GCC 10.2.1 |
 | Python | 4.4.49 | openSUSE 42.2 | Python 3.8.5 |
