@@ -4,7 +4,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 ## List of programming languages
 | Programming language | Appeared | Designed |
 | :-: | :-: | :-: |
-| Fortran | 1957 | - |
+| Fortran | 1957 | To replace assembly language with a compiled programming language |
 | BASIC | 1964 | To enable general university students to use computers |
 | Pascal | 1970 | - |
 | C | 1972 | - |
@@ -29,6 +29,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 ## Test environment
 | Programming language | Linux | Distribution | Compiler or interpreter |
 | :-: | :-: | :-: | :-: |
+| Fortran | 2.6.32 | CentOS 6.2 | GCC 4.4.6 |
 | BASIC | 4.4.0 | Ubuntu 16.04 | bwBASIC 2.20 |
 | SQL | 3.10.0 | CentOS 7.6 | MariaDB 10.5.5 |
 | Objective-C | 5.9.16 | Fedora 33 | GCC 10.2.1 |
