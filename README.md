@@ -6,13 +6,13 @@ Comparing diversified syntaxes of a larger number of programming languages
 | :-: | :-: | :-: |
 | Fortran | 1957 | To replace assembly language with a compiled programming language |
 | BASIC | 1964 | To enable general university students to use computers |
-| Pascal | 1970 | - |
+| Pascal | 1970 | To facilitate to develop well-structured programs  |
 | C | 1972 | - |
-| SQL | 1974 | - |
+| SQL | 1974 | To process data in a relational database management system |
 | AWK | 1977 | - |
 | Bourne shell | 1977 | - |
 | C shell | 1978 | - |
-| Objective-C | 1984 | - |
+| Objective-C | 1984 | To integrate Smalltalk-style messaging into C |
 | C++ | 1985 | - |
 | Perl | 1987 | - |
 | Python | 1991 | - |
@@ -31,6 +31,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | :-: | :-: | :-: | :-: |
 | Fortran | 2.6.32 | CentOS 6.2 | GCC 4.4.6 |
 | BASIC | 4.4.0 | Ubuntu 16.04 | bwBASIC 2.20 |
+| Pascal | 3.10.0 | CentOS 7.6 | Free Pascal 3.0.4 |
 | SQL | 3.10.0 | CentOS 7.6 | MariaDB 10.5.5 |
 | Objective-C | 5.9.16 | Fedora 33 | GCC 10.2.1 |
 | Python | 4.4.49 | openSUSE 42.2 | Python 3.8.5 |
