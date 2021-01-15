@@ -2,10 +2,10 @@
 Comparing diversified syntaxes of a larger number of programming languages
 
 ## List of programming languages
-| Programming language | Appeared | Concept |
+| Programming language | Appeared | Designed |
 | :-: | :-: | :-: |
 | Fortran | 1957 | - |
-| BASIC | 1964 | Designed to enable students to use computers |
+| BASIC | 1964 | To enable general university students to use computers |
 | Pascal | 1970 | - |
 | C | 1972 | - |
 | SQL | 1974 | - |
@@ -16,12 +16,12 @@ Comparing diversified syntaxes of a larger number of programming languages
 | C++ | 1985 | - |
 | Perl | 1987 | - |
 | Python | 1991 | - |
-| R | 1993 | Designed to perform statistical computing and graphics |
+| R | 1993 | To perform statistical computing and graphics |
 | Java | 1995 | - |
 | PHP | 1995 | - |
 | JavaScript | 1995 | - |
 | Ruby | 1995 | - |
-| C# | 2000 | Designed to target the Common Language Infrastructure |
+| C# | 2000 | To target the Common Language Infrastructure proposed by Microsoft |
 | Go | 2009 | - |
 | Swift | 2014 | - |
 
