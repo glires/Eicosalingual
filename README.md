@@ -7,7 +7,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Fortran | 1957 | To replace assembly language with a compiled programming language |
 | BASIC | 1964 | To enable general university students to use computers |
 | Pascal | 1970 | To facilitate to develop well-structured programs  |
-| C | 1972 | - |
+| C | 1972 | To develop an OS which had been implemented in assembly language so far |
 | SQL | 1974 | To process data in a relational database management system |
 | AWK | 1977 | To extend the filtering features of grep and sed |
 | Bourne shell | 1977 | To be used as a scripting language in addition to a command interpreter |
@@ -32,6 +32,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Fortran | 2.6.32 | CentOS 6.2 | GCC 4.4.6 |
 | BASIC | 4.4.0 | Ubuntu 16.04 | bwBASIC 2.20 |
 | Pascal | 3.10.0 | CentOS 7.6 | Free Pascal 3.0.4 |
+| C | 4.4.0 | Ubuntu 16.04 | GCC 5.4.0 |
 | SQL | 3.10.0 | CentOS 7.6 | MariaDB 10.5.5 |
 | AWK | 3.14.27 | Fedora 19 | GNU Awk 4.0.2 |
 | Bourne shell | 4.11.3 | Fedora 25 | GNU Bash 4.3.43 |
