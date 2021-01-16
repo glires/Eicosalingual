@@ -13,7 +13,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Bourne shell | 1977 | - |
 | C shell | 1978 | - |
 | Objective-C | 1984 | To integrate Smalltalk-style messaging into C |
-| C++ | 1985 | - |
+| C++ | 1985 | To integrate class-based OOP into C |
 | Perl | 1987 | - |
 | Python | 1991 | To support multiple programming paradigms with code readability |
 | R | 1993 | To perform statistical computing and graphics |
@@ -35,8 +35,8 @@ Comparing diversified syntaxes of a larger number of programming languages
 | SQL | 3.10.0 | CentOS 7.6 | MariaDB 10.5.5 |
 | AWK | 3.14.27 | Fedora 19 | GNU Awk 4.0.2 |
 | Objective-C | 5.9.16 | Fedora 33 | GCC 10.2.1 |
+| C++ | 2.6.32 | CentOS 6.8 | GCC 4.4.7 |
 | Python | 4.4.49 | openSUSE 42.2 | Python 3.8.5 |
 | R | 3.10.0 | RHEL 7.3 | R 3.4.1 |
 | Java | 2.6.32 | RHEL 6.2 | OpenJDK 15.0.1 |
 | C# | 4.18.0 | CentOS 8.3 | .NET SDK 5.0.100 |
-
