@@ -10,7 +10,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | C | 1972 | - |
 | SQL | 1974 | To process data in a relational database management system |
 | AWK | 1977 | To extend the filtering features of grep and sed |
-| Bourne shell | 1977 | - |
+| Bourne shell | 1977 | To be used as a scripting language in addition to a command interpreter |
 | C shell | 1978 | - |
 | Objective-C | 1984 | To integrate Smalltalk-style messaging into C |
 | C++ | 1985 | To integrate class-based OOP into C |
@@ -34,6 +34,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Pascal | 3.10.0 | CentOS 7.6 | Free Pascal 3.0.4 |
 | SQL | 3.10.0 | CentOS 7.6 | MariaDB 10.5.5 |
 | AWK | 3.14.27 | Fedora 19 | GNU Awk 4.0.2 |
+| Bourne shell | 4.11.3 | Fedora 25 | GNU Bash 4.3.43 |
 | Objective-C | 5.9.16 | Fedora 33 | GCC 10.2.1 |
 | C++ | 2.6.32 | CentOS 6.8 | GCC 4.4.7 |
 | Python | 4.4.49 | openSUSE 42.2 | Python 3.8.5 |
