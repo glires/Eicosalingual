@@ -7,21 +7,21 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Fortran | 1957 | To replace assembly language with a compiled language |
 | BASIC | 1964 | To enable general university students to use computers |
 | Pascal | 1970 | To facilitate to develop well-structured programs  |
-| C | 1972 | To develop the UNIX operating system using a compiled language |
+| C | 1972 | To develop the Unix operating system using a compiled language |
 | SQL | 1974 | To process data in a relational database management system |
 | AWK | 1977 | To extend the filtering features of grep and sed |
-| Bourne shell | 1977 | To be used for scripting in addition to a command interpreter |
-| C shell | 1978 | To be used as a UNIX shell with C-style syntax |
+| Bourne shell | 1977 | To be a scripting language in addition to a command interpreter |
+| C shell | 1978 | To be used as a Unix shell with C-style syntax |
 | Objective-C | 1984 | To integrate Smalltalk-style messaging into C |
 | C++ | 1985 | To integrate class-based OOP into C |
-| Perl | 1987 | - |
+| Perl | 1987 | To be a Unix scripting language with powerful parsing abilities |
 | Python | 1991 | To support multiple programming paradigms with code readability |
 | R | 1993 | To perform statistical computing and graphics |
 | Java | 1995 | To eliminate implementation dependnecies using C-style OOP |
 | PHP | 1995 | To build dynamic web sites and applications |
 | JavaScript | 1995 | - |
 | Ruby | 1995 | - |
-| C# | 2000 | To target the Common Language Infrastructure proposed by Microsoft |
+| C# | 2000 | To target the Common Language Infrastructure proposed |
 | Go | 2009 | - |
 | Swift | 2014 | - |
 
@@ -39,6 +39,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | C shell | 3.10.0 | CentOS 7.8 | tcsh 6.18.01 |
 | Objective-C | 5.9.16 | Fedora 33 | GCC 10.2.1 |
 | C++ | 2.6.32 | CentOS 6.8 | GCC 4.4.7 |
+| Perl | 5.9.16 | Fedora 33 | Perl 5.32.0 |
 | Python | 4.4.49 | openSUSE 42.2 | Python 3.8.5 |
 | R | 3.10.0 | RHEL 7.3 | R 3.4.1 |
 | Java | 2.6.32 | RHEL 6.2 | OpenJDK 15.0.1 |
