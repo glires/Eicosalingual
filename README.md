@@ -4,14 +4,14 @@ Comparing diversified syntaxes of a larger number of programming languages
 ## List of programming languages
 | Programming language | Appeared | Designed |
 | :-: | :-: | :-: |
-| Fortran | 1957 | To replace assembly language with a compiled programming language |
+| Fortran | 1957 | To replace assembly language with a compiled language |
 | BASIC | 1964 | To enable general university students to use computers |
 | Pascal | 1970 | To facilitate to develop well-structured programs  |
-| C | 1972 | To develop an OS which had been implemented in assembly language so far |
+| C | 1972 | To develop the UNIX operating system using a compiled language |
 | SQL | 1974 | To process data in a relational database management system |
 | AWK | 1977 | To extend the filtering features of grep and sed |
-| Bourne shell | 1977 | To be used as a scripting language in addition to a command interpreter |
-| C shell | 1978 | - |
+| Bourne shell | 1977 | To be used for scripting in addition to a command interpreter |
+| C shell | 1978 | To be used as a UNIX shell with C-style syntax |
 | Objective-C | 1984 | To integrate Smalltalk-style messaging into C |
 | C++ | 1985 | To integrate class-based OOP into C |
 | Perl | 1987 | - |
@@ -36,6 +36,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | SQL | 3.10.0 | CentOS 7.6 | MariaDB 10.5.5 |
 | AWK | 3.14.27 | Fedora 19 | GNU Awk 4.0.2 |
 | Bourne shell | 4.11.3 | Fedora 25 | GNU Bash 4.3.43 |
+| C shell | 3.10.0 | CentOS 7.8 | tcsh 6.18.01 |
 | Objective-C | 5.9.16 | Fedora 33 | GCC 10.2.1 |
 | C++ | 2.6.32 | CentOS 6.8 | GCC 4.4.7 |
 | Python | 4.4.49 | openSUSE 42.2 | Python 3.8.5 |
