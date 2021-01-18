@@ -20,7 +20,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Java | 1995 | To eliminate implementation dependnecies using C-style OOP |
 | PHP | 1995 | To build dynamic web sites and applications |
 | JavaScript | 1995 | To implement a scripting language in web browsers |
-| Ruby | 1995 | - |
+| Ruby | 1995 | To make an object-oriented and easy-to-use scripting language |
 | C# | 2000 | To target the Common Language Infrastructure proposed |
 | Go | 2009 | - |
 | Swift | 2014 | - |
@@ -44,5 +44,6 @@ Comparing diversified syntaxes of a larger number of programming languages
 | R | 3.10.0 | RHEL 7.3 | R 3.4.1 |
 | Java | 2.6.32 | RHEL 6.2 | OpenJDK 15.0.1 |
 | PHP | 4.4.0 | Ubuntu 18.04 | PHP 8.0.1 |
-| JavaScript | 3.10.0 | CentOS 7.6 | Mozilla Firefox 60.2.2 |
+| JavaScript | 3.10.0 | CentOS 7.6 | Node.js 6.17.1 |
+| Ruby | 4.18.0 | CentOS 8.3 | Ruby 2.5.5 |
 | C# | 4.18.0 | CentOS 8.3 | .NET SDK 5.0.100 |
