@@ -19,7 +19,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | R | 1993 | To perform statistical computing and graphics |
 | Java | 1995 | To eliminate implementation dependnecies using C-style OOP |
 | PHP | 1995 | To build dynamic web sites and applications |
-| JavaScript | 1995 | - |
+| JavaScript | 1995 | To implement a scripting language in web browsers |
 | Ruby | 1995 | - |
 | C# | 2000 | To target the Common Language Infrastructure proposed |
 | Go | 2009 | - |
@@ -37,11 +37,12 @@ Comparing diversified syntaxes of a larger number of programming languages
 | AWK | 3.14.27 | Fedora 19 | GNU Awk 4.0.2 |
 | Bourne shell | 4.11.3 | Fedora 25 | GNU Bash 4.3.43 |
 | C shell | 3.10.0 | CentOS 7.8 | tcsh 6.18.01 |
-| Objective-C | 5.9.16 | Fedora 33 | GCC 10.2.1 |
+| Objective-C | 5.10.7 | Fedora 33 | GCC 10.2.1 |
 | C++ | 2.6.32 | CentOS 6.8 | GCC 4.4.7 |
 | Perl | 5.9.16 | Fedora 33 | Perl 5.32.0 |
 | Python | 4.4.49 | openSUSE 42.2 | Python 3.8.5 |
 | R | 3.10.0 | RHEL 7.3 | R 3.4.1 |
 | Java | 2.6.32 | RHEL 6.2 | OpenJDK 15.0.1 |
 | PHP | 4.4.0 | Ubuntu 18.04 | PHP 8.0.1 |
+| JavaScript | 3.10.0 | CentOS 7.6 | Mozilla Firefox 60.2.2 |
 | C# | 4.18.0 | CentOS 8.3 | .NET SDK 5.0.100 |
