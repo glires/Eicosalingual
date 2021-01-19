@@ -13,7 +13,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Bourne shell | 1977 | To be a scripting language in addition to a command interpreter |
 | C shell | 1978 | To be used as a Unix shell with C-style syntax |
 | Objective-C | 1984 | To integrate Smalltalk-style messaging into C |
-| C++ | 1985 | To integrate class-based OOP into C |
+| C++ | 1985 | To integrate class-based object-oriented programming into C |
 | Perl | 1987 | To be a Unix scripting language with powerful parsing abilities |
 | Python | 1991 | To support multiple programming paradigms with code readability |
 | R | 1993 | To perform statistical computing and graphics |
