@@ -22,7 +22,7 @@ Comparing diversified syntaxes of a larger number of programming languages
 | JavaScript | 1995 | To implement a scripting language in web browsers |
 | Ruby | 1995 | To make an object-oriented and easy-to-use scripting language |
 | C# | 2000 | To target the Common Language Infrastructure proposed |
-| Go | 2009 | To make a new program language by those who do not like C++ |
+| Go | 2009 | To make a new programming language by those who do not like C++ |
 | Swift | 2014 | - |
 
 
