@@ -22,8 +22,8 @@ Comparing diversified syntaxes of a larger number of programming languages
 | JavaScript | 1995 | To implement a scripting language in web browsers |
 | Ruby | 1995 | To make an object-oriented and easy-to-use scripting language |
 | C# | 2000 | To target the Common Language Infrastructure proposed |
-| Go | 2009 | To make a new programming language by those who do not like C++ |
-| Swift | 2014 | - |
+| Go | 2009 | To make a new C-style programming language unlike C++ |
+| Swift | 2014 | To replace Objective-C by eliminating the baggage of C |
 
 
 ## Test environment
@@ -48,4 +48,4 @@ Comparing diversified syntaxes of a larger number of programming languages
 | Ruby | 4.18.0 | CentOS 8.3 | Ruby 2.5.5 |
 | C# | 4.18.0 | CentOS 8.3 | .NET SDK 5.0.100 |
 | Go | 4.18.0 | CentOS 8.3 | Go 1.14.12 |
-| Swift | - | - | - |
+| Swift | 4.4.0 | Ubuntu 16.04 | Swift 5.3.2 |
