@@ -1,6 +1,8 @@
 # Eicosalingual
 Comparing diversified syntaxes of a larger number of programming languages
 
+Using a FORTRAN compiler, I started studying programming when I was an undergraduate student. Since then, I have learned many programming languages, including Pascal, C, Perl, and Python. Especially, knowing Perl unexpectedly hindered me from learning Python. Furthermore, knowing Python left Perl behind and degraded my skill of coding Perl. Slight syntax differences, such as usage of semicolons and how to write else if, irritate programmers who use multiple languages. Hence, I would like to study and summarize basic syntaxes of more than twenty programming languages.
+
 ## List of programming languages
 | Programming language | Appeared | Designed |
 | :-: | :-: | :-: |
