@@ -1,7 +1,7 @@
 # Eicosalingual
 Comparing diversified syntaxes of a larger number of programming languages
 
-Using a FORTRAN compiler, I started studying programming when I was an undergraduate student. Since then, I have learned many programming languages, including Pascal, C, Perl, and Python. Especially, knowing Perl unexpectedly hindered me from learning Python. Furthermore, knowing Python left Perl behind and degraded my skill of coding Perl. Slight syntax differences, such as usage of semicolons and how to write else if, irritate programmers who use multiple languages. Hence, I would like to study and summarize basic syntaxes of more than twenty programming languages.
+Using a FORTRAN compiler, I started studying programming when I was an undergraduate student. Since then, I have learned many programming languages, including Pascal, C, Perl, and Python. Especially, knowing Perl unexpectedly hindered me from learning Python. Furthermore, knowing Python left Perl behind and degraded my skill of coding Perl. Slight syntax differences, such as usage of semicolons and how to write else if, irritate programmers who use multiple languages. Hence, I would like to summarize common and basic syntaxes of more than twenty programming languages.
 
 ## List of programming languages
 | Programming language | Appeared | Designed |
@@ -19,7 +19,7 @@ Using a FORTRAN compiler, I started studying programming when I was an undergrad
 | Perl | 1987 | To be a Unix scripting language with powerful parsing abilities |
 | Python | 1991 | To support multiple programming paradigms with code readability |
 | R | 1993 | To perform statistical computing and graphics |
-| Java | 1995 | To eliminate implementation dependnecies using C-style OOP |
+| Java | 1995 | To eliminate implementation dependencies using C-style OOP |
 | PHP | 1995 | To build dynamic web sites and applications |
 | JavaScript | 1995 | To implement a scripting language in web browsers |
 | Ruby | 1995 | To make an object-oriented and easy-to-use scripting language |
