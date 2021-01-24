@@ -27,7 +27,6 @@ Using a FORTRAN compiler, I started studying programming when I was an undergrad
 | Go | 2009 | To make a new C-style programming language unlike C++ |
 | Swift | 2014 | To replace Objective-C by eliminating the baggage of C |
 
-
 ## Test environment
 | Programming language | Linux | Distribution | Compiler or interpreter |
 | :-: | :-: | :-: | :-: |
@@ -51,3 +50,7 @@ Using a FORTRAN compiler, I started studying programming when I was an undergrad
 | C# | 4.18.0 | CentOS 8.3 | .NET SDK 5.0.100 |
 | Go | 4.18.0 | CentOS 8.3 | Go 1.14.12 |
 | Swift | 4.4.0 | Ubuntu 16.04 | Swift 5.3.2 |
+
+## Fist theme
+As the first theme, the sample programs calculate sum of odd integers from 1. They also examine whether the sum equals to the square of the number of odd integers. Here, they check all integers from 0 to 170 to obtain odd numbers that are added.
+![Figure 1](https://github.com/glires/Eicosalingual/blob/main/etc/figure1.png "Figure 1")
