@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<!-- Coded by Kohji on 2021-01-23 -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<text font-family="Arial" x="30" y= "39" font-size="24" fill="#dd0000">1</text>
+<text font-family="Arial" x="30" y= "79" font-size="24" fill="#ff7f53">3</text>
+<text font-family="Arial" x="30" y="119" font-size="24" fill="#00cf00">5</text>
+<text font-family="Arial" x="30" y="159" font-size="24" fill="#0b0bff">7</text>
+<text font-family="Arial" x="30" y="199" font-size="24" fill="#9e0ed1">9</text>
+
+<circle cx= "80" cy= "30" r="16" fill="#dd0000" />
+
+<circle cx= "80" cy= "70" r="16" fill="#ff7f53" />
+<circle cx="120" cy= "70" r="16" fill="#ff7f53" />
+<circle cx="120" cy= "30" r="16" fill="#ff7f53" />
+
+<circle cx= "80" cy="110" r="16" fill="#00cf00" />
+<circle cx="120" cy="110" r="16" fill="#00cf00" />
+<circle cx="160" cy="110" r="16" fill="#00cf00" />
+<circle cx="160" cy= "70" r="16" fill="#00cf00" />
+<circle cx="160" cy= "30" r="16" fill="#00cf00" />
+
+<circle cx= "80" cy="150" r="16" fill="#0b0bff" />
+<circle cx="120" cy="150" r="16" fill="#0b0bff" />
+<circle cx="160" cy="150" r="16" fill="#0b0bff" />
+<circle cx="200" cy="150" r="16" fill="#0b0bff" />
+<circle cx="200" cy="110" r="16" fill="#0b0bff" />
+<circle cx="200" cy= "70" r="16" fill="#0b0bff" />
+<circle cx="200" cy= "30" r="16" fill="#0b0bff" />
+
+<circle cx= "80" cy="190" r="16" fill="#9e0ed1" />
+<circle cx="120" cy="190" r="16" fill="#9e0ed1" />
+<circle cx="160" cy="190" r="16" fill="#9e0ed1" />
+<circle cx="200" cy="190" r="16" fill="#9e0ed1" />
+<circle cx="240" cy="190" r="16" fill="#9e0ed1" />
+<circle cx="240" cy="150" r="16" fill="#9e0ed1" />
+<circle cx="240" cy="110" r="16" fill="#9e0ed1" />
+<circle cx="240" cy= "70" r="16" fill="#9e0ed1" />
+<circle cx="240" cy= "30" r="16" fill="#9e0ed1" />
+
+</svg>
