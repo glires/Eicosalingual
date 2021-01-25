@@ -54,3 +54,15 @@ Using a FORTRAN compiler, I started studying programming when I was an undergrad
 ## Fist theme
 As the first theme, the sample programs calculate sum of odd integers from 1. They also examine whether the sum equals to the square of the number of odd integers. Here, they check all integers from 0 to 170 to obtain odd numbers that are added.
 ![Figure 1](https://github.com/glires/Eicosalingual/blob/main/etc/figure1.png "Figure 1")
+### Syntaxes covered
+* comments
+* importing header files and modules
+* declaration of constnat values
+* declaration of variables
+* assignment of variables
+* arithmetics (addition, remainder, and power)
+* loop (for)
+* choice (if-elseif-else)
+* blocks
+* empty statement
+* treating integers, ...
