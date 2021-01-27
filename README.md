@@ -53,10 +53,10 @@ Using a FORTRAN compiler, I started studying programming when I was an undergrad
 
 ## Fist theme
 As the first theme, the sample programs calculate sum of odd integers from 1. They also examine whether the sum equals to the square of the number of odd integers. Here, they check all integers from 0 to 170 to obtain odd numbers that are added.
-<img asrc="https://github.com/glires/Eicosalingual/blob/main/etc/figure1.png" lign="right">
+![Figure 1](https://github.com/glires/Eicosalingual/blob/main/etc/figure1.png?style=right "Figure 1")
 ### Syntaxes covered
-* comments
-* importing header files and modules
+* writing comments
+* importing header files or modules
 * declaration of constnat values
 * declaration of variables
 * assignment of variables
@@ -65,4 +65,7 @@ As the first theme, the sample programs calculate sum of odd integers from 1. Th
 * choice (if-elseif-else)
 * blocks
 * empty statement
-* treating integers, ...
+* treating integers, floating point numbers, Boolean data, and strings
+* definition of a function or subroutine
+* arguments and return values of a function
+* how to put new lines in a long single code
