@@ -53,6 +53,7 @@ Using a FORTRAN compiler, I started studying programming when I was an undergrad
 
 ## Fist theme
 As the first theme, the sample programs calculate sum of odd integers from 1. They also examine whether the sum equals to the square of the number of odd integers. Here, they check all integers from 0 to 170 to obtain odd numbers that are added.
+
 ![Figure 1](https://github.com/glires/Eicosalingual/blob/main/etc/figure1.png "Figure 1")
 ### Syntaxes covered
 * writing comments
@@ -69,3 +70,10 @@ As the first theme, the sample programs calculate sum of odd integers from 1. Th
 * definition of a function or subroutine
 * arguments and return values of a function
 * how to put new lines in a long single-line code
+
+## Classification
+### types of else-if
+* else if: Fortran, Pascal, C, AWK, C shell, Objective-C, C++, R, Java, JavaScript, C#, Go, Swift
+* elseif: BASIC SQL, PHP
+* elsif: Perl, Ruby
+* elif: Bourne shell, Python
