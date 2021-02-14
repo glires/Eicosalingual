@@ -72,8 +72,9 @@ As the first theme, the sample programs calculate sum of odd integers from 1. Th
 * how to put new lines in a long single-line code
 
 ## Classification
-### types of else-if
-* else if: Fortran, Pascal, C, AWK, C shell, Objective-C, C++, R, Java, JavaScript, C#, Go, Swift
-* elseif: BASIC SQL, PHP
-* elsif: Perl, Ruby
-* elif: Bourne shell, Python
+| Type of else-if | Language |
+| :-: | :-: |
+| else if | Fortran, Pascal, C, AWK, C shell, Objective-C, C++, R, Java, JavaScript, C#, Go, Swift |
+| elseif | BASIC SQL, PHP |
+| elsif | Perl, Ruby |
+| elif | Bourne shell, Python |
