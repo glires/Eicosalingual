@@ -78,3 +78,10 @@ As the first theme, the sample programs calculate sum of odd integers from 1. Th
 | elseif | BASIC SQL, PHP |
 | elsif | Perl, Ruby |
 | elif | Bourne shell, Python |
+
+| Exponentiation | Language |
+| :-: | :-: |
+| ** | Fortran, AWK, Perl, Python, PHP, Ruby |
+| pow() | C, SQL, Objective-C, C++, Java, JavaScript, C#, Go, Swift |
+| ^ | R |
+| Unavailable | BASIC, Pascal, Bourne shell, C shell |
