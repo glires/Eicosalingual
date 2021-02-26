@@ -25,6 +25,7 @@ Using a FORTRAN compiler, I started studying programming when I was an undergrad
 | Ruby | 1995 | To make an object-oriented and easy-to-use scripting language |
 | C# | 2000 | To target the Common Language Infrastructure proposed |
 | Go | 2009 | To make a new C-style programming language unlike C++ |
+| Rust | 2010 | To make a high-performance language like C++ with memory safety |
 | Swift | 2014 | To replace Objective-C by eliminating the baggage of C |
 
 ## Test environment
@@ -49,6 +50,7 @@ Using a FORTRAN compiler, I started studying programming when I was an undergrad
 | Ruby | 4.18.0 | CentOS 8.3 | Ruby 2.5.5 |
 | C# | 4.18.0 | CentOS 8.3 | .NET SDK 5.0.100 |
 | Go | 4.18.0 | CentOS 8.3 | Go 1.14.12 |
+| Rust | 4.18.0 | CentOS 8.3 | Rust 1.45.2 |
 | Swift | 4.4.0 | Ubuntu 16.04 | Swift 5.3.2 |
 
 ## Fist theme
@@ -74,7 +76,7 @@ As the first theme, the sample programs calculate sum of odd integers from 1. Th
 ## Classification
 | Type of else-if | Language |
 | :-: | :-: |
-| else if | Fortran, Pascal, C, AWK, C shell, Objective-C, C++, R, Java, JavaScript, C#, Go, Swift |
+| else if | Fortran, Pascal, C, AWK, C shell, Objective-C, C++, R, Java, JavaScript, C#, Go, Rust, Swift |
 | elseif | BASIC SQL, PHP |
 | elsif | Perl, Ruby |
 | elif | Bourne shell, Python |
@@ -82,6 +84,6 @@ As the first theme, the sample programs calculate sum of odd integers from 1. Th
 | Exponentiation | Language |
 | :-: | :-: |
 | ** | Fortran, AWK, Perl, Python, PHP, Ruby |
-| pow() | C, SQL, Objective-C, C++, Java, JavaScript, C#, Go, Swift |
+| pow() | C, SQL, Objective-C, C++, Java, JavaScript, C#, Go, Rust, Swift |
 | ^ | R |
 | Unavailable | BASIC, Pascal, Bourne shell, C shell |
