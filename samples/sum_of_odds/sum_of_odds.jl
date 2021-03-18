@@ -5,7 +5,7 @@ sum_of_odds.jl - calculate sum of odd integers
 =#
 
 __version__ = 1.1
-__date__ = &quot;2021-03-07&quot;
+__date__ = "2021-03-07"
 
 up_to = 170
 
@@ -34,9 +34,9 @@ if sum == number_of_odds ^ 2
   elseif number_of_odds &lt; 7
     println(sum)
   else
-    println(&quot;1 + 3 + 5 + ... + &quot;, last_odd - 1,
-            &quot; + &quot;, last_odd , &quot; = &quot;, sum)
+    println("1 + 3 + 5 + ... + ", last_odd - 1,
+            " + ", last_odd , " = ", sum)
   end
 else
-  println(stderr, &quot;Unexpected error: &quot;, sum)
+  println(stderr, "Unexpected error: ", sum)
 end
