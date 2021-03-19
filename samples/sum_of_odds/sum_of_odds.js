@@ -1,4 +1,4 @@
-// sum_of_odds.html - calculate sum of odd integers
+// sum_of_odds.js - calculate sum of odd integers
 
 const __version__ = 1.1;
 const __date__ = '2021-01-18';
