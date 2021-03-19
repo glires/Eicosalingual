@@ -26,6 +26,7 @@ Using a FORTRAN compiler, I started studying programming when I was an undergrad
 | C# | 2000 | To target the Common Language Infrastructure proposed |
 | Go | 2009 | To make a new C-style programming language unlike C++ |
 | Rust | 2010 | To make a high-performance language like C++ with memory safety |
+| Julia | 2012 | To make a high-performance language with dynamic typing |
 | Swift | 2014 | To replace Objective-C by eliminating the baggage of C |
 
 ## Test environment
@@ -51,6 +52,7 @@ Using a FORTRAN compiler, I started studying programming when I was an undergrad
 | C# | 4.18.0 | CentOS 8.3 | .NET SDK 5.0.100 |
 | Go | 4.18.0 | CentOS 8.3 | Go 1.14.12 |
 | Rust | 4.18.0 | CentOS 8.3 | Rust 1.45.2 |
+| Julia | 2.6.32 | RHEL 6.2 | Julia 1.5.3 |
 | Swift | 4.4.0 | Ubuntu 16.04 | Swift 5.3.2 |
 
 ## Fist theme
