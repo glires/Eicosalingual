@@ -79,7 +79,7 @@ As the first theme, the sample programs calculate sum of odd integers from 1. Th
 | Type of else-if | Language |
 | :-: | :-: |
 | else if | Fortran, Pascal, C, AWK, C shell, Objective-C, C++, R, Java, JavaScript, C#, Go, Rust, Swift |
-| elseif | BASIC SQL, PHP |
+| elseif | BASIC SQL, PHP, Julia |
 | elsif | Perl, Ruby |
 | elif | Bourne shell, Python |
 
@@ -87,5 +87,5 @@ As the first theme, the sample programs calculate sum of odd integers from 1. Th
 | :-: | :-: |
 | ** | Fortran, AWK, Perl, Python, PHP, Ruby |
 | pow() | C, SQL, Objective-C, C++, Java, JavaScript, C#, Go, Rust, Swift |
-| ^ | R |
+| ^ | R, Julia |
 | Unavailable | BASIC, Pascal, Bourne shell, C shell |
