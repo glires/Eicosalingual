@@ -85,7 +85,7 @@ As the first theme, the sample programs calculate sum of odd integers from 1. Th
 
 | Exponentiation | Language |
 | :-: | :-: |
-| ** | Fortran, AWK, Perl, Python, PHP, Ruby |
+| ** | Fortran, AWK, Perl, Python, R, PHP, Ruby |
 | pow() | C, SQL, Objective-C, C++, Java, JavaScript, C#, Go, Rust, Swift |
 | ^ | R, Julia |
 | Unavailable | BASIC, Pascal, Bourne shell, C shell |
