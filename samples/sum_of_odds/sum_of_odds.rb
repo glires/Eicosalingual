@@ -1,9 +1,10 @@
 #!/usr/bin/env ruby
 
-# sum_of_odds.py - calculate sum of odd integers
+# sum_of_odds.rb - calculate sum of odd integers
 
 __version__ = 1.1
 __date__ = '2021-01-18'
+__date__ = '2022-01-22'
 
 up_to = 170
 
