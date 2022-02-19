@@ -9,8 +9,8 @@ import (
   "strconv"
 )
 
-const __version__ = 1.1;
-const __date__ = "2021-01-19";
+const __version__ = 1.1
+const __date__ = "2021-01-19"
 
 const up_to = 170
 
